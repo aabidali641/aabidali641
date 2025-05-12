@@ -43,12 +43,20 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Render-5A32A3?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-ArcJet-00A9D1?style=for-the-badge&logo=jet&logoColor=white" alt="ArcJet" />
+  <img src="https://img.shields.io/badge/-GSAP-000000?style=for-the-badge&logo=gsap&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Data%20Structures-4A90E2?style=for-the-badge&logo=buffer&logoColor=white" alt="Data Structures" />
   <img src="https://img.shields.io/badge/-Algorithms-D93F3F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms" />
   <img src="https://img.shields.io/badge/-OOPs-0044CC?style=for-the-badge&logo=circleci&logoColor=white" alt="OOPs" />
   <img src="https://img.shields.io/badge/-DBMS-FF8C00?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS" />
   <img src="https://img.shields.io/badge/-Computer%20Networks-263238?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Computer Networks" />
 </p>
+
 
 ---
 
