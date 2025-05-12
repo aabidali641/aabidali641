@@ -17,25 +17,23 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🔥 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=EJS)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=json-web-tokens)
 
-```yaml
-• Technical:
-  - JAVA, C++, Python
-  - Solved 100+ DSA problems on LeetCode (focused on optimization)
+---
 
-• Frontend:
-  - HTML, CSS, JavaScript
-  - Bootstrap, Tailwind CSS, React, Next.js
-  - GSAP, TypeScript, three.js
-  - UI Libraries: daisyUI, Shadcn UI, Aceternity UI
+### 🌟 Featured Projects
+- 💸 *[WealthSync](#)* – Smart Budgeting & Financial Planning App  
+- 🏢 *[NexusSociety](#)* – Society & Resident Management System  
+- 💬 *[Talkify](#)* – Real-time MERN Chat App  
+- 🍹 *[TazZA](#)* – Fresh Food & Juice Delivery App  
+- 🏡 *[PrimeStays](#)* – Accommodation Booking Platform  
 
-• Backend:
-  - Node.js, Express.js
-  - MongoDB, JWT, Passport.js
-
-• Curriculum Concepts:
-  - DBMS, MySQL, DSA, Computer Networks, OOPs
-
-
-
+---
