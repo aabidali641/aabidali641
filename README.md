@@ -74,9 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="Aabid's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
 
 ---
