@@ -65,9 +65,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=tokyo-night&area=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=aabidali641&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 
 
 ---
