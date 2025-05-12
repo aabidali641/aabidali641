@@ -65,8 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aabidali641&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aabidali641?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=tokyo-night&area=true" alt="Contribution Graph" />
 </p>
 
 
