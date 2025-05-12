@@ -43,9 +43,6 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-Render-5A32A3?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/-Data%20Structures-4A90E2?style=for-the-badge&logo=buffer&logoColor=white" alt="Data Structures" />
   <img src="https://img.shields.io/badge/-Algorithms-D93F3F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms" />
   <img src="https://img.shields.io/badge/-OOPs-0044CC?style=for-the-badge&logo=circleci&logoColor=white" alt="OOPs" />
