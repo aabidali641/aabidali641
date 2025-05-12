@@ -42,7 +42,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat-square&logo=buffer)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square&logo=codeforces)
 ![OOPs](https://img.shields.io/badge/-OOPs-black?style=flat-square&logo=circleci)
@@ -66,9 +65,9 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidali641" alt="streak"/>
-
+  <img src="https://github-readme-streak-stats.demolab.com/?user=aabidali641&theme=tokyonight" alt="Aabid's GitHub Streak" />
 </p>
+
 
 ---
 
