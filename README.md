@@ -65,8 +65,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=aabidali641&theme=tokyonight" alt="Aabid's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aabidali641&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 ---
