@@ -37,3 +37,16 @@
 - 🏡 *[PrimeStays](#)* – Accommodation Booking Platform  
 
 ---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="Aabid's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidali641&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+✨ “Success doesn't come from what you do occasionally, it comes from what you do consistently.”
