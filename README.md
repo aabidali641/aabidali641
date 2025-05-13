@@ -80,7 +80,7 @@
 
 ---
 
-### Contribution Graph
+### 📊 Contribution Graph
 ![Aabid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=dracula)
 
 
