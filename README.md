@@ -104,7 +104,7 @@
 
 ### ✨ Fun Facts
 
-- 🎯 I aim to be a top Software Engineer in a product-based company  
+- 🎯 My aim to be a top Software Engineer in a product-based company  
 - 😄 I believe in _Code. Eat. Sleep. Repeat._
 - ❤️ I love helping juniors & building meaningful projects.
 
