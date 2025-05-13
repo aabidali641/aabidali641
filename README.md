@@ -16,6 +16,15 @@
 - ⚡ Energetic, disciplined, and committed to building quality products  
 
 ---
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aabidali641" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" /></a>
+  <a href="https://github.com/aabidali641" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?logo=github" /></a>
+  <a href="mailto:aabidali641@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?logo=gmail" /></a>
+</p>
+
+---
 
 ### 🔥 Tech Stack
 <p align="center">
@@ -84,6 +93,12 @@
 ![Aabid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=dracula)
 
 
+
+---
+
+### GitHUb Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aabidali641&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
