@@ -74,8 +74,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="Aabid's GitHub Stats" />
 </p>
 
-![Aabid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=dracula)
 
+
+
+
+---
+
+### Contribution Graph
+<p align="center">
+  ![Aabid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=dracula)
+</p>
 
 
 ---
