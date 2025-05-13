@@ -74,7 +74,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="Aabid's GitHub Stats" />
 </p>
 
-[![3D Graph](https://github-readme-3d-contributions.vercel.app/api?username=aabidali641&theme=dark&random=123)](https://github.com/aabidali641)
+![Aabid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=gruvbox&bg_color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true&custom_title=Aabid%20Ali's%20Activity%20Graph)
+
 
 ---
 
