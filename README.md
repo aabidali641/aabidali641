@@ -102,6 +102,12 @@
 
 ---
 
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### ✨ Fun Facts
 
 - 🎯 My aim to be a top Software Engineer in a product-based company  
