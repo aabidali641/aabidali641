@@ -81,9 +81,8 @@
 ---
 
 ### Contribution Graph
-<p align="center">![Aabid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=dracula)
+![Aabid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=dracula)
 
-</p>
 
 
 ---
