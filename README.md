@@ -102,4 +102,12 @@
 
 ---
 
-> ✨ “Success doesn't come from what you do occasionally, it comes from what you do consistently.”
+### ✨ Fun Facts
+
+- 🎯 I aim to be a top Software Engineer in a product-based company  
+- 😄 I believe in _Code. Eat. Sleep. Repeat._
+- ❤️ I love helping juniors & building meaningful projects.
+
+---
+
+**> ✨ “Success doesn't come from what you do occasionally, it comes from what you do consistently.”**
