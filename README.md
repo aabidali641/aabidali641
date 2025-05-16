@@ -70,11 +70,11 @@
 ---
 
 ### 🌟 Featured Projects
-- 💸 *[WealthSync](#)* – Smart Budgeting & Financial Planning App  
-- 🏢 *[NexusSociety](#)* – Society & Resident Management System  
-- 💬 *[Talkify](#)* – Real-time MERN Chat App  
-- 🍹 *[TazZA](#)* – Fresh Food & Juice Delivery App  
-- 🏡 *[PrimeStays](#)* – Accommodation Booking Platform  
+- 💸 *[WealthSync](https://github.com/aabidali641/WealthSync-)* – Smart Budgeting & Financial Planning App  
+- 🏢 *[NexusSociety](https://github.com/sachinchauhan010/NexusSocietyFrontend)* – Society & Resident Management System  
+- 💬 *[Talkify](https://github.com/aabidali641/Talkify)* – Real-time MERN Chat App  
+- 🍹 *[TazZA](https://github.com/aabidali641/TazZA)* – Fresh Food & Juice Delivery App  
+- 🏡 *[PrimeStays](https://github.com/aabidali641/PrimeStays)* – Accommodation Booking Platform  
 
 ---
 
