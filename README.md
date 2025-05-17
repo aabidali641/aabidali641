@@ -80,7 +80,6 @@
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aabidali641&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Aabid's%20GitHub%20Stats&card_width=800" alt="GitHub Stats" />
   
@@ -103,18 +102,11 @@
       <td align="center">
         <img src="https://img.shields.io/badge/Contributed-1-yellow?logo=git&logoColor=black&style=for-the-badge&color=yellow" alt="Contributed" />
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Grade-A+-brightgreen?logo=googleclassroom&logoColor=white&style=for-the-badge&color=brightgreen" alt="Grade" />
-      </td>
-    </tr>
+      
+  
   </table>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aabidali641&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
 
 
 
@@ -122,30 +114,10 @@
 
 ### 📊 Contribution Graph
 
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=redical&bg_color=141321&area=true&hide_border=true&custom_title=Contribution%20Heatmap&area_color=DD2727&point=FFD700&animation=worm" />
+  </div>
 
----
-
-<p align="center">
-  <a href="https://github.com/aabidali641">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aabidali641&theme=github_dark" />
-  </a>
-  <a href="https://github.com/aabidali641">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aabidali641&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aabidali641&theme=github_dark" />
-  </a>
-  <a href="https://github.com/aabidali641">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aabidali641&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aabidali641&theme=github_dark" />
-  </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=github-dark&area=true&hide_border=true" />
-</p>
-
-<!-- Animated Badges Row -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aabidali641&label=Profile+Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/aabidali641?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/aabidali641?label=Stars&style=social" />
-</p>
 
 ---
 
@@ -176,9 +148,6 @@
   </div>
 
   <!-- Bottom Row - Animated Contribution Graph -->
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=redical&bg_color=141321&area=true&hide_border=true&custom_title=Contribution%20Heatmap&area_color=DD2727&point=FFD700&animation=worm" />
-  </div>
 
   <!-- Animated Badges -->
   <div align="center">
