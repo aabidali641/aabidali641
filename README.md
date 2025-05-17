@@ -165,6 +165,7 @@
   </div>
 </p>
 
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=DD2727&center=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;LeetCode+Problem+Solver;Always+Learning+New+Tech" alt="Typing Animation" />
