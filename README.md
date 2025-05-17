@@ -81,32 +81,30 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aabidali641&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Aabid's%20GitHub%20Stats&card_width=800" alt="GitHub Stats" />
-  
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Stars-0-yellow?logo=github&logoColor=white&style=for-the-badge&color=yellow" alt="Stars" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Commits-686-blue?logo=git&logoColor=white&style=for-the-badge&color=blue" alt="Commits" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PRs-58-green?logo=github&logoColor=white&style=for-the-badge&color=green" alt="PRs" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Issues-3-orange?logo=github&logoColor=white&style=for-the-badge&color=orange" alt="Issues" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Contributed-1-yellow?logo=git&logoColor=black&style=for-the-badge&color=yellow" alt="Contributed" />
-      </td>
-      
-  
-  </table>
+<a href="https://github.com/aabidali641">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aabidali641&show_icons=true&count_private=true&theme=radical&hide_border=false&include_all_commits=true&custom_title=Aabid%27s+GitHub+Stats&card_width=800&border_radius=15&bg_color=1F1E2D&title_color=FF6B6B&icon_color=58A6FF&text_color=FFFFFF&ring_color=DD2727&animation=twinkling" alt="GitHub Stats" width="80%"/>
+  </a>
+  <p align="center">
+ 
 
-
+  <!-- Animated Stats Grid -->
+  <div align="center">
+    <a href="https://github.com/aabidali641?tab=repositories">
+      <img src="https://img.shields.io/badge/🌟_Stars-0-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=121212&animation=pulse" alt="Stars" height="40"/>
+    </a>
+    <a href="https://github.com/aabidali641">
+      <img src="https://img.shields.io/badge/💾_Commits-686-00FFFF?style=for-the-badge&logo=git&logoColor=black&labelColor=121212&animation=pulse" alt="Commits" height="40"/>
+    </a>
+    <a href="https://github.com/pulls?q=author%3Aaabidali641">
+      <img src="https://img.shields.io/badge/🔀_PRs-58-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=121212&animation=pulse" alt="PRs" height="40"/>
+    </a>
+    <a href="https://github.com/aabidali641/issues">
+      <img src="https://img.shields.io/badge/🐛_Issues-3-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=121212&animation=pulse" alt="Issues" height="40"/>
+    </a>
+    <a href="https://github.com/aabidali641">
+      <img src="https://img.shields.io/badge/🤝_Contributed-1-FFFF00?style=for-the-badge&logo=git&logoColor=black&labelColor=121212&animation=pulse" alt="Contributed" height="40"/>
+    </a>
+  </div>
 
 ---
 
