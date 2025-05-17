@@ -172,9 +172,14 @@
 </p>
 
 -----
-### GitHUb Trophies
+### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aabidali641&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aabidali641&theme=tokyonight&margin-w=10&row=2&column=3" alt="Trophies" />
+</p>
+
+
 
 ---
 
