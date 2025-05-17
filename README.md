@@ -105,8 +105,6 @@
       
   
   </table>
-  
-
 
 
 
@@ -120,6 +118,16 @@
 
 
 ---
+
+### 📊 Detailed Insights of AABID's GitHub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-686-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-58-brightgreen?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Issues-3-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributed_to-1_repo-yellow?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Grade-A%2B-success?style=for-the-badge&logo=google" />
+</p>
 
 <p align="center">
   <a href="https://github.com/aabidali641">
