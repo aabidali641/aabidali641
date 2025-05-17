@@ -83,7 +83,42 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="Aabid's GitHub Stats" />
 </p>
 
+----
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aabidali641&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Aabid's%20GitHub%20Stats&card_width=800" alt="GitHub Stats" />
+  
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Stars-0-yellow?logo=github&logoColor=white&style=for-the-badge&color=yellow" alt="Stars" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Commits-686-blue?logo=git&logoColor=white&style=for-the-badge&color=blue" alt="Commits" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PRs-58-green?logo=github&logoColor=white&style=for-the-badge&color=green" alt="PRs" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Issues-3-orange?logo=github&logoColor=white&style=for-the-badge&color=orange" alt="Issues" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Contributed-1-yellow?logo=git&logoColor=black&style=for-the-badge&color=yellow" alt="Contributed" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Grade-A+-brightgreen?logo=googleclassroom&logoColor=white&style=for-the-badge&color=brightgreen" alt="Grade" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aabidali641&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
 
 
 
@@ -96,6 +131,75 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/aabidali641">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aabidali641&theme=github_dark" />
+  </a>
+  <a href="https://github.com/aabidali641">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aabidali641&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aabidali641&theme=github_dark" />
+  </a>
+  <a href="https://github.com/aabidali641">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aabidali641&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aabidali641&theme=github_dark" />
+  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=github-dark&area=true&hide_border=true" />
+</p>
+
+<!-- Animated Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aabidali641&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/aabidali641?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/aabidali641?label=Stars&style=social" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/aabidali641">
+    <!-- Animated 3D Profile Header -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aabidali641&theme=radical&border_radius=12&animation=wave" />
+  </a>
+  
+  <!-- Top Row - Animated Stats Cards -->
+  <div align="center">
+    <a href="https://github.com/aabidali641">
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&animation=spin&custom_title=Aabid's%20GitHub%20Stats" />
+    </a>
+    <a href="https://github.com/aabidali641">
+      <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=aabidali641&theme=radical&border_radius=12&animation=pulse&fire=DD472C&ring=DD7230" />
+    </a>
+  </div>
+
+  <!-- Middle Row - Language Stats with Percentage -->
+  <div align="center">
+    <a href="https://github.com/aabidali641">
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabidali641&theme=radical&layout=compact&border_radius=12&langs_count=6&hide_border=true&custom_title=Top%20Languages%20By%20Repo%20Size&animation=twinkling" />
+    </a>
+    <a href="https://github.com/aabidali641">
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabidali641&theme=radical&layout=compact&border_radius=12&langs_count=6&hide_border=true&custom_title=Top%20Languages%20By%20Commits&hide=html,css&animation=twinkling" />
+    </a>
+  </div>
+
+  <!-- Bottom Row - Animated Contribution Graph -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabidali641&theme=redical&bg_color=141321&area=true&hide_border=true&custom_title=Contribution%20Heatmap&area_color=DD2727&point=FFD700&animation=worm" />
+  </div>
+
+  <!-- Animated Badges -->
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=aabidali641&label=Profile+Views&color=DD2727&style=for-the-badge&animation=glow" /> 
+    <img src="https://img.shields.io/github/followers/aabidali641?label=Followers&style=for-the-badge&color=DD2727&logo=github&animation=glow" />
+    <img src="https://img.shields.io/github/stars/aabidali641?label=Stars&style=for-the-badge&color=DD2727&logo=github&animation=glow" />
+  </div>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&color=DD2727&center=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;LeetCode+Problem+Solver;Always+Learning+New+Tech" alt="Typing Animation" />
+</p>
+
+-----
 ### GitHUb Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aabidali641&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
