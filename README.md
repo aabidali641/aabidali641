@@ -79,11 +79,7 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabidali641&show_icons=true&theme=tokyonight" alt="Aabid's GitHub Stats" />
-</p>
 
-----
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aabidali641&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Aabid's%20GitHub%20Stats&card_width=800" alt="GitHub Stats" />
