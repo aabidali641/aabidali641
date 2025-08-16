@@ -29,8 +29,9 @@
 </a>
 
 <a href="https://portfolio-aabidali641s-projects.vercel.app/" target="_blank">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=vercel&text=Portfolio&animation=float&fill=000000&textfill=FFFFFF" height="40">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=PORTFOLIO&=Portfolio&animation=float&fill=000000&textfill=FFFFFF" height="40">
 </a>
+
 
 <a href="https://x.com/641Aabid" target="_blank">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=twitter&text=Twitter&animation=shake&fill=1DA1F2&textfill=ffffff" height="40">
