@@ -16,7 +16,7 @@
 - ⚡ Energetic, disciplined, and committed to building quality products  
 
 ---
-### 🌐 Connect With Me
+### 🌐 Connect With Me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px">
 
 <p align="left">
   <a href="https://linkedin.com/in/aabidali641" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" /></a>
