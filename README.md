@@ -18,11 +18,33 @@
 ---
 ### 🌐 Connect With Me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px">
 
-<p align="left">
-  <a href="https://linkedin.com/in/aabidali641" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://github.com/aabidali641" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?logo=github" /></a>
-  <a href="mailto:aabidali641@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?logo=gmail" /></a>
-</p>
+<div align="left">
+
+<a href="https://linkedin.com/in/aabidali641" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&text=LinkedIn&animation=pulse&fill=0A66C2&textfill=ffffff" height="40">
+</a>
+
+<a href="https://github.com/aabidali641" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=GitHub&animation=spin&fill=181717&textfill=ffffff" height="40">
+</a>
+
+<a href="https://portfolio-aabidali641s-projects.vercel.app/" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=vercel&text=Portfolio&animation=float&fill=000000&textfill=FFFFFF" height="40">
+</a>
+
+<a href="https://x.com/641Aabid" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=twitter&text=Twitter&animation=shake&fill=1DA1F2&textfill=ffffff" height="40">
+</a>
+
+<a href="https://leetcode.com/u/aabidAli/" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=leetcode&text=LeetCode&animation=bounce&fill=FFA116&textfill=000000" height="40">
+</a>
+
+<a href="mailto:mdaabidali28@gmail.com">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&text=Email&animation=wave&fill=D14836&textfill=ffffff" height="40">
+</a>
+
+</div>
 
 ---
 
