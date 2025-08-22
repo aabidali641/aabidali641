@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-
+- 📚 Portfolio:- https://portfolio-aabidali641s-projects.vercel.app/
 - 🎓 MCA Student @ MMMUT  
 - 💻 Full Stack Developer with a passion for innovation  
 - 🔍 Exploring Next.js, TypeScript, and modern UI libraries  
