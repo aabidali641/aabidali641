@@ -8,12 +8,18 @@
 ---
 
 ### 🧠 About Me
-- 📚 Portfolio:- https://portfolio-aabidali641s-projects.vercel.app/
-- 🎓 MCA Student @ MMMUT  
-- 💻 Full Stack Developer with a passion for innovation  
-- 🔍 Exploring Next.js, TypeScript, and modern UI libraries  
-- 📚 Strong foundation in DSA, OOPs, and DBMS  
-- ⚡ Energetic, disciplined, and committed to building quality products  
+- 💻 **Full Stack Developer** specializing in modern web application development
+- ⚛️ Experienced with **React.js, Next.js, JavaScript and TypeScript**
+- 🟢 Strong backend experience with **Node.js and Express.js**
+- 🗄️ Experienced with **MongoDB, PostgreSQL, MySQL, Supabase and Prisma**
+- 🔐 Build secure applications using **JWT, OAuth, Clerk and modern authentication practices**
+- 🤖 Interested in **AI-powered applications and intelligent software solutions**
+- 🔌 Experienced in designing and developing **RESTful APIs**
+- ☁️ Experienced with **Vercel, Render and modern cloud deployment workflows**
+- 🧑‍🏫 Assistant Professor and **Software Development Mentor**
+- 📚 Teach and mentor students in **Web Technologies, Java (OOP), DBMS, IoT, Cloud Computing and Blockchain**
+- 🧠 Solved **200+ coding problems on LeetCode**
+- 🎯 Passionate about **Software Engineering, Full Stack Development, Problem Solving and Continuous Learning**
 
 ---
 ### 🌐 Connect With Me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px">
