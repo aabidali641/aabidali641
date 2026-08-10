@@ -38,7 +38,6 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=PORTFOLIO&=Portfolio&animation=float&fill=000000&textfill=FFFFFF" height="40">
 </a>
 
-
 <a href="https://x.com/641Aabid" target="_blank">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=twitter&text=Twitter&animation=shake&fill=1DA1F2&textfill=ffffff" height="40">
 </a>
@@ -51,8 +50,15 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&text=Email&animation=wave&fill=D14836&textfill=ffffff" height="40">
 </a>
 
-</div>
+<a href="https://www.instagram.com/aabidali641/" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=instagram&text=Instagram&animation=pulse&fill=E4405F&textfill=ffffff" height="40">
+</a>
 
+<a href="https://aabid-ali-faculty-profile.vercel.app/" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=book-open&text=Faculty%20Profile&animation=float&fill=2563EB&textfill=ffffff" height="40">
+</a>
+
+</div>
 ---
 
 ### 🔥 Tech Stack
